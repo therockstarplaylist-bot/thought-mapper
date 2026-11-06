@@ -1,0 +1,10 @@
+*{box-sizing:border-box}body{margin:0;background:#0b0d12;color:#e7e9ee;font:16px/1.45 system-ui,sans-serif}
+.w{max-width:760px;margin:auto;padding:14px}.card{background:#151925;border:1px solid #262c3d;border-radius:14px;padding:16px;margin:12px 0}
+button{background:#232a3d;color:#e7e9ee;border:1px solid #33405e;border-radius:10px;padding:12px 14px;font-size:15px;margin:4px 4px 4px 0;cursor:pointer}
+button.sel{background:#2f6df6;border-color:#2f6df6}.gen{width:100%;font-size:22px;font-weight:700;background:linear-gradient(90deg,#7c3aed,#2f6df6);border:0;padding:18px}
+.opt{display:block;width:100%;text-align:left}.badge{font-size:13px;background:#1e2433;border-radius:20px;padding:6px 10px;display:inline-block}
+textarea,input{width:100%;background:#0f1320;color:#e7e9ee;border:1px solid #33405e;border-radius:10px;padding:10px;font:inherit}
+.bar{height:10px;background:#232a3d;border-radius:6px;overflow:hidden}.bar>i{display:block;height:100%;background:#22c55e}
+h1{font-size:22px;margin:4px 0}h3{margin:6px 0}.muted{color:#97a0b5;font-size:13px}.tabs button{padding:8px 10px;font-size:13px}
+.f{border-left:3px solid #7c3aed;padding:4px 10px;margin:10px 0}.f.blindspot{border-color:#f59e0b}.f.trigger{border-color:#ef4444}.f.emergent{border-color:#22c55e}
+pre{white-space:pre-wrap;font-size:12px;background:#0f1320;padding:10px;border-radius:8px}
